@@ -5,6 +5,8 @@ Found all pagesFound all componentsFound all utilitiesNow let me read key files 
 Reviewed typesReviewed dependenciesReviewed productsReviewed cartNow let me create a comprehensive project overview document:
 
 Reviewed authReviewed adminReviewed searchNow I have a comprehensive understanding of the project. Let me create a detailed project overview document for you:
+LIVE PROJECT VIEW : 
+https://modern-store-e-commerce.vercel.app/
 
 ---
 
