@@ -561,3 +561,10 @@ ecommercenew/
 1. Track user interactions → ML model
 2. Generate personalized suggestions
 3. Display on homepage/recommendations pages
+
+
+
+
+
+
+
